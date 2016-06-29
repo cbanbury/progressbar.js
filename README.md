@@ -1,3 +1,12 @@
+# Meteor Wrapper for ProgressBar.js
+See below for original documentation and demos.
+
+Install:
+
+```
+meteor add derelinguo:progressbarjs
+```
+
 # ProgressBar.js
 
 <br>
